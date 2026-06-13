@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-13T13:48:13.169Z",
+  "generated_at": "2026-06-13T13:57:34.541Z",
   "checker": {
     "environment": "github-actions",
     "timeout_ms": 15000,
@@ -15,43 +15,43 @@
       "status": "restricted",
       "http_status": 403,
       "final_url": "https://www.novipnoad.cc/",
-      "response_ms": 576,
-      "checked_at": "2026-06-13T13:48:12.002Z",
+      "response_ms": 445,
+      "checked_at": "2026-06-13T13:57:22.507Z",
       "attempts": 1,
       "error": null
     },
     {
       "resource_id": "gaze-red",
       "url": "https://gaze.red/",
-      "status": "unknown",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": null,
-      "checked_at": "2026-06-13T13:43:14.929Z",
-      "attempts": 0,
-      "error": "waiting for next GitHub Actions availability check"
+      "status": "restricted",
+      "http_status": 403,
+      "final_url": "https://gaze.red/",
+      "response_ms": 707,
+      "checked_at": "2026-06-13T13:57:22.550Z",
+      "attempts": 1,
+      "error": null
     },
     {
       "resource_id": "sotvla",
       "url": "https://www.sotvla.cc/",
-      "status": "unknown",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": null,
-      "checked_at": "2026-06-13T13:43:14.929Z",
-      "attempts": 0,
-      "error": "waiting for next GitHub Actions availability check"
+      "status": "reachable",
+      "http_status": 200,
+      "final_url": "https://www.sotvla.cc/",
+      "response_ms": 818,
+      "checked_at": "2026-06-13T13:57:22.551Z",
+      "attempts": 1,
+      "error": null
     },
     {
       "resource_id": "xlys",
       "url": "https://xlys.me/",
-      "status": "unknown",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": null,
-      "checked_at": "2026-06-13T13:43:14.929Z",
-      "attempts": 0,
-      "error": "waiting for next GitHub Actions availability check"
+      "status": "reachable",
+      "http_status": 200,
+      "final_url": "https://v.xl01.eu.cc/",
+      "response_ms": 1076,
+      "checked_at": "2026-06-13T13:57:22.552Z",
+      "attempts": 1,
+      "error": null
     },
     {
       "resource_id": "opensubtitles",
@@ -59,8 +59,8 @@
       "status": "restricted",
       "http_status": 403,
       "final_url": "https://www.opensubtitles.com/zh-CN",
-      "response_ms": 181,
-      "checked_at": "2026-06-13T13:48:12.044Z",
+      "response_ms": 316,
+      "checked_at": "2026-06-13T13:57:22.952Z",
       "attempts": 1,
       "error": null
     },
@@ -70,8 +70,8 @@
       "status": "restricted",
       "http_status": 403,
       "final_url": "https://kodi.tv/",
-      "response_ms": 183,
-      "checked_at": "2026-06-13T13:48:12.046Z",
+      "response_ms": 36,
+      "checked_at": "2026-06-13T13:57:23.257Z",
       "attempts": 1,
       "error": null
     },
@@ -81,8 +81,8 @@
       "status": "reachable",
       "http_status": 206,
       "final_url": "https://github.com/iptv-org/iptv",
-      "response_ms": 643,
-      "checked_at": "2026-06-13T13:48:12.047Z",
+      "response_ms": 23,
+      "checked_at": "2026-06-13T13:57:23.268Z",
       "attempts": 1,
       "error": null
     },
@@ -92,21 +92,21 @@
       "status": "reachable",
       "http_status": 200,
       "final_url": "https://academictorrents.com/",
-      "response_ms": 138,
-      "checked_at": "2026-06-13T13:48:12.225Z",
+      "response_ms": 416,
+      "checked_at": "2026-06-13T13:57:23.291Z",
       "attempts": 1,
       "error": null
     },
     {
       "resource_id": "kuake-so-1",
       "url": "https://www.kuake.so/",
-      "status": "reachable",
-      "http_status": 200,
-      "final_url": "https://www.kuake.so/",
-      "response_ms": 940,
-      "checked_at": "2026-06-13T13:48:12.229Z",
-      "attempts": 1,
-      "error": null
+      "status": "unreachable",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 11248,
+      "checked_at": "2026-06-13T13:57:23.293Z",
+      "attempts": 2,
+      "error": "fetch failed"
     }
   ]
 }

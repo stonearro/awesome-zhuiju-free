@@ -76,7 +76,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://gaze.red/" target="_blank" rel="noopener noreferrer">注视影视</a></td>
       <td>国内海外影视剧资源，需梯子</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:gaze-red -->⚪&#8288;未&#8288;检测<!-- /availability:gaze-red --></td>
+      <td align="center" nowrap><!-- availability:gaze-red -->🟡&#8288;访问&#8288;受限<!-- /availability:gaze-red --></td>
       <td align="center"><!-- availability-date:gaze-red -->2026&#8209;06&#8209;13<!-- /availability-date:gaze-red --></td>
     </tr>
     <tr>
@@ -90,14 +90,14 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.sotvla.cc/" target="_blank" rel="noopener noreferrer">搜TV啦</a></td>
       <td>国内海外高清影视剧资源</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:sotvla -->⚪&#8288;未&#8288;检测<!-- /availability:sotvla --></td>
+      <td align="center" nowrap><!-- availability:sotvla -->🟢&#8288;可&#8288;访问<!-- /availability:sotvla --></td>
       <td align="center"><!-- availability-date:sotvla -->2026&#8209;06&#8209;13<!-- /availability-date:sotvla --></td>
     </tr>
     <tr>
       <td><a href="https://xlys.me/" target="_blank" rel="noopener noreferrer">雪落影视</a></td>
       <td>国内海外影视剧资源</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xlys -->⚪&#8288;未&#8288;检测<!-- /availability:xlys --></td>
+      <td align="center" nowrap><!-- availability:xlys -->🟢&#8288;可&#8288;访问<!-- /availability:xlys --></td>
       <td align="center"><!-- availability-date:xlys -->2026&#8209;06&#8209;13<!-- /availability-date:xlys --></td>
     </tr>
   </tbody>
@@ -122,7 +122,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.kuake.so/" target="_blank" rel="noopener noreferrer">夸克点搜</a></td>
       <td>夸克网盘资源搜索平台</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:kuake-so-1 -->🟢&#8288;可&#8288;访问<!-- /availability:kuake-so-1 --></td>
+      <td align="center" nowrap><!-- availability:kuake-so-1 -->🔴&#8288;无法&#8288;访问<!-- /availability:kuake-so-1 --></td>
       <td align="center"><!-- availability-date:kuake-so-1 -->2026&#8209;06&#8209;13<!-- /availability-date:kuake-so-1 --></td>
     </tr>
   </tbody>

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T09:43:11.013Z",
+  "generated_at": null,
   "checker": {
     "environment": "github-actions",
     "timeout_ms": 15000,
@@ -50,17 +50,6 @@
       "final_url": "https://v.xl01.eu.cc/",
       "response_ms": 1837,
       "checked_at": "2026-06-19T09:43:07.312Z",
-      "attempts": 1,
-      "error": null
-    },
-    {
-      "resource_id": "opensubtitles",
-      "url": "https://www.opensubtitles.com/zh-CN",
-      "status": "restricted",
-      "http_status": 403,
-      "final_url": "https://www.opensubtitles.com/zh-CN",
-      "response_ms": 127,
-      "checked_at": "2026-06-19T09:43:07.822Z",
       "attempts": 1,
       "error": null
     },

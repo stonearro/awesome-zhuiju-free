@@ -5,7 +5,6 @@
     {
       "id": "verify-20260606-initial",
       "resource_ids": [
-        "opensubtitles",
         "kodi",
         "iptv-org"
       ],
@@ -84,6 +83,23 @@
       },
       "result": "pending_review",
       "notes": "根据截图信息收录：美剧粉（https://www.mjf2020.com，测评备注：全部高清无广告）和磁力熊（https://www.cilixiong.org，测评备注：无删减、无广告），推荐指数均为 5 星。截图中的访问状态不作为本项目状态依据，后续需要补充访问速度、广告干扰、版权和链接安全验证。"
+    },
+    {
+      "id": "verify-20260619-subtitles-batch",
+      "resource_ids": [
+        "zimuku",
+        "assrt",
+        "subhd"
+      ],
+      "checked_at": "2026-06-19",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "screenshot submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据截图信息收录：字幕库（https://zimuku.org，测评备注：字幕下载）、射手网(伪)（https://assrt.net，测评备注：字幕下载）和 SubHD（https://subhd.tv，测评备注：分享下载字幕平台），推荐指数均为 5 星。截图中的访问状态不作为本项目状态依据，后续需要补充访问速度、广告干扰、版权和下载安全验证。"
     }
   ]
 }

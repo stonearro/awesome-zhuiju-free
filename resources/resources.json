@@ -156,40 +156,116 @@
       "featured": true
     },
     {
-      "id": "opensubtitles",
-      "name": "OpenSubtitles",
-      "url": "https://www.opensubtitles.com/zh-CN",
+      "id": "zimuku",
+      "name": "字幕库",
+      "url": "https://zimuku.org",
       "category": "subtitles",
-      "summary": "多语言社区字幕搜索与下载平台。",
-      "summary_short": "多语言社区字幕搜索与下载",
-      "tags": ["字幕", "多语言", "社区上传"],
+      "summary": "字幕下载。",
+      "summary_short": "字幕下载",
+      "tags": ["字幕", "字幕下载", "中文"],
       "access": {
         "requires_login": false,
-        "free_level": "partly_free",
+        "free_level": "unknown",
         "regions": ["GLOBAL"]
       },
       "scores": {
-        "more": 4.8,
-        "speed": 3.2,
-        "clean": 2.8,
-        "stable": 4.5,
-        "ease": 3.5
+        "more": 5.0,
+        "speed": 5.0,
+        "clean": 5.0,
+        "stable": 5.0,
+        "ease": 5.0
       },
       "risks": {
         "copyright": "medium",
         "safety": "medium",
-        "privacy": "medium",
-        "payment": "low"
+        "privacy": "unknown",
+        "payment": "unknown"
       },
       "verification": {
         "status": "caution",
-        "last_checked": "2026-06-06",
+        "last_checked": "2026-06-19",
         "method": "manual",
-        "notes": "搜索入口可访问；含广告和用户上传内容，下载前需自行判断。"
+        "notes": "根据截图信息收录：推荐指数 5 星，测评备注为字幕下载；截图状态不作为本项目状态依据，后续需要补充访问速度、广告干扰、版权和下载安全验证。"
       },
       "source": {
         "submitted_by": "maintainer",
-        "added_at": "2026-06-06"
+        "added_at": "2026-06-19"
+      },
+      "featured": true
+    },
+    {
+      "id": "assrt",
+      "name": "射手网(伪)",
+      "url": "https://assrt.net",
+      "category": "subtitles",
+      "summary": "字幕下载。",
+      "summary_short": "字幕下载",
+      "tags": ["字幕", "字幕下载", "中文"],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": ["GLOBAL"]
+      },
+      "scores": {
+        "more": 5.0,
+        "speed": 5.0,
+        "clean": 5.0,
+        "stable": 5.0,
+        "ease": 5.0
+      },
+      "risks": {
+        "copyright": "medium",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-06-19",
+        "method": "manual",
+        "notes": "根据截图信息收录：推荐指数 5 星，测评备注为字幕下载；截图状态不作为本项目状态依据，后续需要补充访问速度、广告干扰、版权和下载安全验证。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-06-19"
+      },
+      "featured": true
+    },
+    {
+      "id": "subhd",
+      "name": "SubHD",
+      "url": "https://subhd.tv",
+      "category": "subtitles",
+      "summary": "分享下载字幕平台。",
+      "summary_short": "分享下载字幕平台",
+      "tags": ["字幕", "字幕下载", "分享平台"],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": ["GLOBAL"]
+      },
+      "scores": {
+        "more": 5.0,
+        "speed": 5.0,
+        "clean": 5.0,
+        "stable": 5.0,
+        "ease": 5.0
+      },
+      "risks": {
+        "copyright": "medium",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-06-19",
+        "method": "manual",
+        "notes": "根据截图信息收录：推荐指数 5 星，测评备注为分享下载字幕平台；截图状态不作为本项目状态依据，后续需要补充访问速度、广告干扰、版权和下载安全验证。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-06-19"
       },
       "featured": true
     },

@@ -9,7 +9,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-13_个资源-0f766e?style=for-the-badge" alt="已收录 13 个资源"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-15_个资源-0f766e?style=for-the-badge" alt="已收录 15 个资源"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行"></a>
 </p>
@@ -45,7 +45,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-0-0f766e?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-64748b?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-2-7c3aed?style=flat-square" alt="磁力& BT"></a>
-  <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-1-d97706?style=flat-square" alt="字幕资源"></a>
+  <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-d97706?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox播放器"><img src="https://img.shields.io/badge/TVbox播放器-1-059669?style=flat-square" alt="TVbox播放器"></a>
   <a href="#订阅源"><img src="https://img.shields.io/badge/订阅源-1-db2777?style=flat-square" alt="订阅源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-64748b?style=flat-square" alt="会员拼团"></a>
@@ -206,11 +206,25 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.opensubtitles.com/zh-CN" target="_blank" rel="noopener noreferrer">OpenSubtitles</a></td>
-      <td>多语言社区字幕搜索与下载</td>
-      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:opensubtitles -->🟡&#8288;访问&#8288;受限<!-- /availability:opensubtitles --></td>
-      <td align="center"><!-- availability-date:opensubtitles -->2026&#8209;06&#8209;19<!-- /availability-date:opensubtitles --></td>
+      <td><a href="https://zimuku.org" target="_blank" rel="noopener noreferrer">字幕库</a></td>
+      <td>字幕下载</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:zimuku -->⚪&#8288;未&#8288;检测<!-- /availability:zimuku --></td>
+      <td align="center"><!-- availability-date:zimuku -->未检测<!-- /availability-date:zimuku --></td>
+    </tr>
+    <tr>
+      <td><a href="https://assrt.net" target="_blank" rel="noopener noreferrer">射手网(伪)</a></td>
+      <td>字幕下载</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:assrt -->⚪&#8288;未&#8288;检测<!-- /availability:assrt --></td>
+      <td align="center"><!-- availability-date:assrt -->未检测<!-- /availability-date:assrt --></td>
+    </tr>
+    <tr>
+      <td><a href="https://subhd.tv" target="_blank" rel="noopener noreferrer">SubHD</a></td>
+      <td>分享下载字幕平台</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:subhd -->⚪&#8288;未&#8288;检测<!-- /availability:subhd --></td>
+      <td align="center"><!-- availability-date:subhd -->未检测<!-- /availability-date:subhd --></td>
     </tr>
   </tbody>
 </table>

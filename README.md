@@ -350,105 +350,105 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td nowrap><a href="https://www.饭太硬.cc" target="_blank" rel="noopener noreferrer">饭太硬</a></td>
       <td><code>http:<wbr>/<wbr>/<wbr>www.<wbr>饭太硬.<wbr>net/<wbr>tv</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:fan-tai-ying -->⚪&#8288;未&#8288;检测<!-- /availability:fan-tai-ying --></td>
+      <td align="center" nowrap><!-- availability:fan-tai-ying -->🟢&#8288;可&#8288;访问<!-- /availability:fan-tai-ying --></td>
       <td align="center" nowrap><!-- availability-date:fan-tai-ying -->2026&#8209;07&#8209;04<!-- /availability-date:fan-tai-ying --></td>
     </tr>
     <tr>
       <td nowrap>肥猫</td>
       <td><code>http:<wbr>/<wbr>/<wbr>肥猫.<wbr>net/<wbr></code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:fei-mao -->⚪&#8288;未&#8288;检测<!-- /availability:fei-mao --></td>
+      <td align="center" nowrap><!-- availability:fei-mao -->🟢&#8288;可&#8288;访问<!-- /availability:fei-mao --></td>
       <td align="center" nowrap><!-- availability-date:fei-mao -->2026&#8209;07&#8209;04<!-- /availability-date:fei-mao --></td>
     </tr>
     <tr>
       <td nowrap>老刘备</td>
       <td><code>https:<wbr>/<wbr>/<wbr>raw.<wbr>liucn.<wbr>cc/<wbr>box/<wbr>m.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:lao-liu-bei -->⚪&#8288;未&#8288;检测<!-- /availability:lao-liu-bei --></td>
+      <td align="center" nowrap><!-- availability:lao-liu-bei -->🟢&#8288;可&#8288;访问<!-- /availability:lao-liu-bei --></td>
       <td align="center" nowrap><!-- availability-date:lao-liu-bei -->2026&#8209;07&#8209;04<!-- /availability-date:lao-liu-bei --></td>
     </tr>
     <tr>
       <td nowrap>俊佬</td>
       <td><code>http:<wbr>/<wbr>/<wbr>home.<wbr>jundie.<wbr>top:<wbr>81/<wbr>top98.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:jun-lao -->⚪&#8288;未&#8288;检测<!-- /availability:jun-lao --></td>
+      <td align="center" nowrap><!-- availability:jun-lao -->🟢&#8288;可&#8288;访问<!-- /availability:jun-lao --></td>
       <td align="center" nowrap><!-- availability-date:jun-lao -->2026&#8209;07&#8209;04<!-- /availability-date:jun-lao --></td>
     </tr>
     <tr>
       <td nowrap>小马</td>
       <td><code>https:<wbr>/<wbr>/<wbr>szyyds.<wbr>cn/<wbr>tv/<wbr>x.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xiao-ma -->⚪&#8288;未&#8288;检测<!-- /availability:xiao-ma --></td>
+      <td align="center" nowrap><!-- availability:xiao-ma -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-ma --></td>
       <td align="center" nowrap><!-- availability-date:xiao-ma -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-ma --></td>
     </tr>
     <tr>
       <td nowrap><a href="https://www.小不点.com/" target="_blank" rel="noopener noreferrer">摸鱼儿</a></td>
       <td><code>http:<wbr>/<wbr>/<wbr>摸鱼儿.<wbr>cc</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:mo-yu-er -->⚪&#8288;未&#8288;检测<!-- /availability:mo-yu-er --></td>
+      <td align="center" nowrap><!-- availability:mo-yu-er -->🟢&#8288;可&#8288;访问<!-- /availability:mo-yu-er --></td>
       <td align="center" nowrap><!-- availability-date:mo-yu-er -->2026&#8209;07&#8209;04<!-- /availability-date:mo-yu-er --></td>
     </tr>
     <tr>
       <td nowrap><a href="https://www.王二小放牛娃.top" target="_blank" rel="noopener noreferrer">王二小</a></td>
       <td><code>http:<wbr>/<wbr>/<wbr>new.<wbr>王二小放牛娃.<wbr>top</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:wang-er-xiao -->⚪&#8288;未&#8288;检测<!-- /availability:wang-er-xiao --></td>
+      <td align="center" nowrap><!-- availability:wang-er-xiao -->🟢&#8288;可&#8288;访问<!-- /availability:wang-er-xiao --></td>
       <td align="center" nowrap><!-- availability-date:wang-er-xiao -->2026&#8209;07&#8209;04<!-- /availability-date:wang-er-xiao --></td>
     </tr>
     <tr>
       <td nowrap>小盒子4K</td>
       <td><code>http:<wbr>/<wbr>/<wbr>xhztv.<wbr>top/<wbr>4k.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xiao-he-zi-4k -->⚪&#8288;未&#8288;检测<!-- /availability:xiao-he-zi-4k --></td>
+      <td align="center" nowrap><!-- availability:xiao-he-zi-4k -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-4k --></td>
       <td align="center" nowrap><!-- availability-date:xiao-he-zi-4k -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-he-zi-4k --></td>
     </tr>
     <tr>
       <td nowrap>小盒子单仓</td>
       <td><code>http:<wbr>/<wbr>/<wbr>xhztv.<wbr>top/<wbr>xhz</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xiao-he-zi-single -->⚪&#8288;未&#8288;检测<!-- /availability:xiao-he-zi-single --></td>
+      <td align="center" nowrap><!-- availability:xiao-he-zi-single -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-single --></td>
       <td align="center" nowrap><!-- availability-date:xiao-he-zi-single -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-he-zi-single --></td>
     </tr>
     <tr>
       <td nowrap>VOX</td>
       <td><code>http:<wbr>/<wbr>/<wbr>rihou.<wbr>cc:<wbr>88/<wbr>demo.<wbr>php</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:vox -->⚪&#8288;未&#8288;检测<!-- /availability:vox --></td>
+      <td align="center" nowrap><!-- availability:vox -->🟢&#8288;可&#8288;访问<!-- /availability:vox --></td>
       <td align="center" nowrap><!-- availability-date:vox -->2026&#8209;07&#8209;04<!-- /availability-date:vox --></td>
     </tr>
     <tr>
       <td nowrap>嗷呜</td>
       <td><code>http:<wbr>/<wbr>/<wbr>itv666.<wbr>cc/<wbr>aowu/<wbr>config.<wbr>webp</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:ao-wu -->⚪&#8288;未&#8288;检测<!-- /availability:ao-wu --></td>
+      <td align="center" nowrap><!-- availability:ao-wu -->🟢&#8288;可&#8288;访问<!-- /availability:ao-wu --></td>
       <td align="center" nowrap><!-- availability-date:ao-wu -->2026&#8209;07&#8209;04<!-- /availability-date:ao-wu --></td>
     </tr>
     <tr>
       <td nowrap>小盒子多仓</td>
       <td><code>http:<wbr>/<wbr>/<wbr>xhztv.<wbr>top/<wbr>dc</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xiao-he-zi-multi -->⚪&#8288;未&#8288;检测<!-- /availability:xiao-he-zi-multi --></td>
+      <td align="center" nowrap><!-- availability:xiao-he-zi-multi -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-multi --></td>
       <td align="center" nowrap><!-- availability-date:xiao-he-zi-multi -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-he-zi-multi --></td>
     </tr>
     <tr>
       <td nowrap>拾光多仓</td>
       <td><code>http:<wbr>/<wbr>/<wbr>xmbjm.<wbr>fh4u.<wbr>org/<wbr>dc.<wbr>txt</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:shi-guang-multi -->⚪&#8288;未&#8288;检测<!-- /availability:shi-guang-multi --></td>
+      <td align="center" nowrap><!-- availability:shi-guang-multi -->🟢&#8288;可&#8288;访问<!-- /availability:shi-guang-multi --></td>
       <td align="center" nowrap><!-- availability-date:shi-guang-multi -->2026&#8209;07&#8209;04<!-- /availability-date:shi-guang-multi --></td>
     </tr>
     <tr>
       <td nowrap>挺好分享多仓</td>
       <td><code>http:<wbr>/<wbr>/<wbr>ztha.<wbr>top/<wbr>TVBox/<wbr>GYCK.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:ting-hao-share-multi -->⚪&#8288;未&#8288;检测<!-- /availability:ting-hao-share-multi --></td>
+      <td align="center" nowrap><!-- availability:ting-hao-share-multi -->🟢&#8288;可&#8288;访问<!-- /availability:ting-hao-share-multi --></td>
       <td align="center" nowrap><!-- availability-date:ting-hao-share-multi -->2026&#8209;07&#8209;04<!-- /availability-date:ting-hao-share-multi --></td>
     </tr>
     <tr>
       <td nowrap><a href="https://www.xhztv.pro/" target="_blank" rel="noopener noreferrer">小盒子</a></td>
       <td nowrap>专业 TV 工具箱，免费好用</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xiao-he-zi -->⚪&#8288;未&#8288;检测<!-- /availability:xiao-he-zi --></td>
+      <td align="center" nowrap><!-- availability:xiao-he-zi -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi --></td>
       <td align="center" nowrap><!-- availability-date:xiao-he-zi -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-he-zi --></td>
     </tr>
   </tbody>

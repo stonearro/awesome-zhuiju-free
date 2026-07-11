@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-63_个资源-0f766e?style=for-the-badge" alt="已收录 63 个资源"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-64_个资源-0f766e?style=for-the-badge" alt="已收录 64 个资源"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行"></a>
 </p>
@@ -54,7 +54,7 @@
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-d97706?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox播放器"><img src="https://img.shields.io/badge/TVbox播放器-2-059669?style=flat-square" alt="TVbox播放器"></a>
   <a href="#订阅源"><img src="https://img.shields.io/badge/订阅源-1-db2777?style=flat-square" alt="订阅源"></a>
-  <a href="#影视仓配置地址"><img src="https://img.shields.io/badge/影视仓配置-14-0891b2?style=flat-square" alt="影视仓配置地址"></a>
+  <a href="#影视仓配置地址"><img src="https://img.shields.io/badge/影视仓配置-15-0891b2?style=flat-square" alt="影视仓配置地址"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-64748b?style=flat-square" alt="会员拼团"></a>
   <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-10-0f172a?style=flat-square" alt="开源项目"></a>
 </p>
@@ -509,6 +509,13 @@
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:fei-mao -->🟢&#8288;可&#8288;访问<!-- /availability:fei-mao --></td>
       <td align="center" nowrap><!-- availability-date:fei-mao -->2026&#8209;07&#8209;12<!-- /availability-date:fei-mao --></td>
+    </tr>
+    <tr>
+      <td nowrap>潇洒</td>
+      <td><code>https:<wbr>/<wbr>/<wbr>cnb.<wbr>cool/<wbr>fish2018/<wbr>xs/<wbr>-<wbr>/<wbr>git/<wbr>raw/<wbr>main/<wbr>api.<wbr>json</code></td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:xiao-sa -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-sa --></td>
+      <td align="center" nowrap><!-- availability-date:xiao-sa -->2026&#8209;07&#8209;12<!-- /availability-date:xiao-sa --></td>
     </tr>
     <tr>
       <td nowrap>小盒子4K</td>

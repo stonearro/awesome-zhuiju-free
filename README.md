@@ -4,7 +4,12 @@
 
 ### 追剧不踩坑，资源有人测
 
-免费无广告的追剧资源导航与影视工具指南，收录无广告的在线影视、影视APP、网盘搜索、磁力与 BT、字幕、TVBox、影视仓配置地址、IPTV 订阅源和会员拼团信息，每日可用性检测，帮助追剧党快速找到可靠资源、减少踩坑。
+🎬 在线影视 · 影视APP · 字幕资源
+📦 网盘搜索 · 磁力 BT · TVBox配置 · IPTV 订阅源
+✅ 每日自动检测可用性，资源不是死列表
+🔓 完全开源，无广告，社区共同维护
+
+> 🇨🇳 国内访问：[Gitee 镜像](https://gitee.com/laoma2053/awesome-zhuiju-free)（与 GitHub 实时同步）
 
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
@@ -14,13 +19,31 @@
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行"></a>
 </p>
 
-[![Validate data](https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/validate-data.yml/badge.svg)](https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/validate-data.yml)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub issues](https://img.shields.io/github/issues/laoma2053/awesome-zhuiju-free)](https://github.com/laoma2053/awesome-zhuiju-free/issues)
+<p align="center">
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=for-the-badge&color=yellow" alt="GitHub Stars"></a>
+  <a href="https://deepwiki.com/laoma2053/awesome-zhuiju-free"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+</p>
 
-**[浏览精选资源](#精选资源)** · **[推荐新资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)** · **[查看完整数据](resources/resources.json)** · **[贡献指南](CONTRIBUTING.md)**
+<p align="center">
+  <a href="https://trendshift.io/repositories/79445"><img src="https://trendshift.io/api/badge/repositories/79445" alt="Trendshift" width="250"></a>
+</p>
+
+**[浏览精选资源](#精选资源)** · **[推荐新资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)** · **[贡献指南](CONTRIBUTING.md)**
+
+觉得有用？点个 ⭐ Star 支持一下，帮助更多追剧党发现这里。
 
 </div>
+
+---
+
+## 为什么选这个列表
+
+| | 普通导航站 | 本项目 |
+|---|---|---|
+| 广告 | 有 | 无 |
+| 资源失效 | 无人管 | 每日自动检测 |
+| 是否开源 | 否 | 是，数据公开 |
+| 参与贡献 | 不行 | Issue 直接提交 |
 
 ---
 
@@ -760,6 +783,12 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=ZT-XI2TPJ3ym7k9_CMN5xiQNkut6_sD4scyC4HAzQ3WDcp5M_qmsd-NItLbhXtbm81fmQ3-4rPHn3MkAweXIRAOnmqGXs6rR5iNBUDLw9Mj5SXU1ZXdRgg" />
  </picture>
 </a>
+
+---
+
+## 项目活跃度
+
+![Repobeats](https://repobeats.axiom.co/api/embed/65ad4a689ab7989c03d2b13b0e1062a1018a76f9.svg "Repobeats 分析图像")
 
 ---
 

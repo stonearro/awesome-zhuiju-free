@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-07-11",
+  "updated_at": "2026-07-12",
   "resources": [
     {
       "id": "no-video",
@@ -2391,7 +2391,7 @@
       "featured_order": 1,
       "github": {
         "full_name": "mtvpls/MoonTVPlus",
-        "stars": 2682,
+        "stars": 2686,
         "pushed_at": "2026-07-11T02:07:50Z"
       }
     },
@@ -2441,7 +2441,7 @@
       "featured_order": 2,
       "github": {
         "full_name": "Hiram-Wong/zyfun",
-        "stars": 8635,
+        "stars": 8640,
         "pushed_at": "2026-06-25T14:11:54Z"
       }
     },
@@ -2491,7 +2491,7 @@
       "featured_order": 3,
       "github": {
         "full_name": "Guovin/iptv-api",
-        "stars": 24561,
+        "stars": 24568,
         "pushed_at": "2026-07-10T09:56:43Z"
       }
     },
@@ -2541,8 +2541,8 @@
       "featured_order": 4,
       "github": {
         "full_name": "iptv-org/iptv",
-        "stars": 132138,
-        "pushed_at": "2026-07-11T00:26:52Z"
+        "stars": 132345,
+        "pushed_at": "2026-07-11T14:02:25Z"
       }
     },
     {
@@ -2591,7 +2591,7 @@
       "featured_order": 5,
       "github": {
         "full_name": "fish2018/pansou",
-        "stars": 13816,
+        "stars": 13822,
         "pushed_at": "2026-06-14T14:06:26Z"
       }
     },
@@ -2641,7 +2641,7 @@
       "featured_order": 6,
       "github": {
         "full_name": "jiangrui1994/CloudSaver",
-        "stars": 9060,
+        "stars": 9063,
         "pushed_at": "2026-04-20T03:28:29Z"
       }
     },
@@ -2691,7 +2691,7 @@
       "featured_order": 7,
       "github": {
         "full_name": "Cp0204/quark-auto-save",
-        "stars": 2916,
+        "stars": 2918,
         "pushed_at": "2026-07-09T11:44:49Z"
       }
     },
@@ -2741,8 +2741,8 @@
       "featured_order": 8,
       "github": {
         "full_name": "open-ani/animeko",
-        "stars": 18791,
-        "pushed_at": "2026-07-10T16:40:33Z"
+        "stars": 18809,
+        "pushed_at": "2026-07-11T16:42:54Z"
       }
     },
     {
@@ -2792,8 +2792,59 @@
       "featured_order": 9,
       "github": {
         "full_name": "Predidit/Kazumi",
-        "stars": 27522,
-        "pushed_at": "2026-07-10T11:32:19Z"
+        "stars": 27549,
+        "pushed_at": "2026-07-11T15:02:56Z"
+      }
+    },
+    {
+      "id": "selenetv",
+      "name": "SeleneTV",
+      "url": "https://github.com/MoonTechLab/Selene",
+      "category": "open_source",
+      "summary": "SeleneTV 是以 MoonTV v100 版本 / Helios 为后端的客户端。",
+      "summary_short": "MoonTV v100/Helios 后端客户端",
+      "tags": [
+        "开源项目",
+        "MoonTV",
+        "Helios",
+        "客户端"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "free",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "low"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-07-12",
+        "method": "manual",
+        "notes": "根据 GitHub 公开仓库信息收录；star 数与最近更新时间来自 GitHub API。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-07-12"
+      },
+      "featured": true,
+      "featured_order": 10,
+      "github": {
+        "full_name": "MoonTechLab/Selene",
+        "stars": 2342,
+        "pushed_at": "2026-05-25T10:26:26Z"
       }
     },
     {

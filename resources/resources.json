@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-07-15",
+  "updated_at": "2026-07-20",
   "resources": [
     {
       "id": "no-video",
@@ -2849,7 +2849,7 @@
       "featured_order": 1,
       "github": {
         "full_name": "mtvpls/MoonTVPlus",
-        "stars": 2718,
+        "stars": 2754,
         "pushed_at": "2026-07-11T02:07:50Z"
       }
     },
@@ -2899,7 +2899,7 @@
       "featured_order": 2,
       "github": {
         "full_name": "Hiram-Wong/zyfun",
-        "stars": 8652,
+        "stars": 8679,
         "pushed_at": "2026-06-25T14:11:54Z"
       }
     },
@@ -2949,8 +2949,8 @@
       "featured_order": 3,
       "github": {
         "full_name": "Guovin/iptv-api",
-        "stars": 24624,
-        "pushed_at": "2026-07-14T01:59:27Z"
+        "stars": 24663,
+        "pushed_at": "2026-07-16T09:14:10Z"
       }
     },
     {
@@ -2999,8 +2999,8 @@
       "featured_order": 4,
       "github": {
         "full_name": "iptv-org/iptv",
-        "stars": 133059,
-        "pushed_at": "2026-07-15T06:14:24Z"
+        "stars": 133437,
+        "pushed_at": "2026-07-19T22:06:32Z"
       }
     },
     {
@@ -3049,7 +3049,7 @@
       "featured_order": 5,
       "github": {
         "full_name": "fish2018/pansou",
-        "stars": 13867,
+        "stars": 13922,
         "pushed_at": "2026-06-14T14:06:26Z"
       }
     },
@@ -3099,7 +3099,7 @@
       "featured_order": 6,
       "github": {
         "full_name": "jiangrui1994/CloudSaver",
-        "stars": 9065,
+        "stars": 9084,
         "pushed_at": "2026-04-20T03:28:29Z"
       }
     },
@@ -3149,7 +3149,7 @@
       "featured_order": 7,
       "github": {
         "full_name": "Cp0204/quark-auto-save",
-        "stars": 2923,
+        "stars": 2929,
         "pushed_at": "2026-07-09T11:44:49Z"
       }
     },
@@ -3199,8 +3199,8 @@
       "featured_order": 8,
       "github": {
         "full_name": "open-ani/animeko",
-        "stars": 18884,
-        "pushed_at": "2026-07-14T12:44:51Z"
+        "stars": 18957,
+        "pushed_at": "2026-07-19T20:56:29Z"
       }
     },
     {
@@ -3250,8 +3250,8 @@
       "featured_order": 9,
       "github": {
         "full_name": "Predidit/Kazumi",
-        "stars": 27694,
-        "pushed_at": "2026-07-15T14:02:13Z"
+        "stars": 27852,
+        "pushed_at": "2026-07-20T03:51:22Z"
       }
     },
     {
@@ -3301,7 +3301,7 @@
       "featured_order": 10,
       "github": {
         "full_name": "MoonTechLab/Selene",
-        "stars": 2353,
+        "stars": 2370,
         "pushed_at": "2026-05-25T10:26:26Z"
       }
     },

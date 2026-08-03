@@ -674,61 +674,61 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
     <tr>
       <td nowrap><a href="https://github.com/mtvpls/MoonTVPlus" target="_blank" rel="noopener noreferrer">MoonTVPlus</a></td>
       <td nowrap>MoonTV 增强版影视聚合播放器</td>
-      <td align="center" nowrap>2,823</td>
-      <td align="center" nowrap>2026-07-21</td>
+      <td align="center" nowrap>2,888</td>
+      <td align="center" nowrap>2026-07-31</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/Hiram-Wong/zyfun" target="_blank" rel="noopener noreferrer">zyfun</a></td>
       <td nowrap>跨平台桌面端视频资源播放器</td>
-      <td align="center" nowrap>8,696</td>
+      <td align="center" nowrap>8,716</td>
       <td align="center" nowrap>2026-06-25</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/Guovin/iptv-api" target="_blank" rel="noopener noreferrer">iptv-api</a></td>
       <td nowrap>IPTV 直播源自动采集筛选更新平台</td>
-      <td align="center" nowrap>24,718</td>
-      <td align="center" nowrap>2026-07-23</td>
+      <td align="center" nowrap>24,764</td>
+      <td align="center" nowrap>2026-07-29</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/iptv-org/iptv" target="_blank" rel="noopener noreferrer">iptv</a></td>
       <td nowrap>全球公开 IPTV 频道集合</td>
-      <td align="center" nowrap>134,492</td>
-      <td align="center" nowrap>2026-07-27</td>
+      <td align="center" nowrap>135,016</td>
+      <td align="center" nowrap>2026-08-03</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/fish2018/pansou" target="_blank" rel="noopener noreferrer">pansou</a></td>
       <td nowrap>高性能网盘资源搜索 API 服务</td>
-      <td align="center" nowrap>13,994</td>
+      <td align="center" nowrap>14,077</td>
       <td align="center" nowrap>2026-06-14</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/jiangrui1994/CloudSaver" target="_blank" rel="noopener noreferrer">CloudSaver</a></td>
       <td nowrap>网盘资源搜索与转存工具</td>
-      <td align="center" nowrap>9,095</td>
+      <td align="center" nowrap>9,120</td>
       <td align="center" nowrap>2026-04-20</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/Cp0204/quark-auto-save" target="_blank" rel="noopener noreferrer">quark-auto-save</a></td>
       <td nowrap>夸克网盘自动签到转存整理工具</td>
-      <td align="center" nowrap>2,949</td>
+      <td align="center" nowrap>2,961</td>
       <td align="center" nowrap>2026-07-09</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/open-ani/animeko" target="_blank" rel="noopener noreferrer">Animeko</a></td>
       <td nowrap>一站式弹幕追番平台</td>
-      <td align="center" nowrap>19,079</td>
-      <td align="center" nowrap>2026-07-26</td>
+      <td align="center" nowrap>19,278</td>
+      <td align="center" nowrap>2026-08-03</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/Predidit/Kazumi" target="_blank" rel="noopener noreferrer">Kazumi</a></td>
       <td nowrap>免费无广告的番剧采集与在线观看</td>
-      <td align="center" nowrap>28,128</td>
-      <td align="center" nowrap>2026-07-26</td>
+      <td align="center" nowrap>28,354</td>
+      <td align="center" nowrap>2026-08-01</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/MoonTechLab/Selene" target="_blank" rel="noopener noreferrer">SeleneTV</a></td>
       <td nowrap>MoonTV v100/Helios 后端客户端</td>
-      <td align="center" nowrap>2,395</td>
+      <td align="center" nowrap>2,416</td>
       <td align="center" nowrap>2026-05-25</td>
     </tr>
   </tbody>
